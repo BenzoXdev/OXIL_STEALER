@@ -133,23 +133,6 @@ func main() {
 }
 ```
 
-## Preview
-
-![](.github/assets/system.png)
-
-![](.github/assets/browsers.png)
-
-![](.github/assets/token.png)
-
-![](.github/assets/discodes.png)
-
-![](.github/assets/wallets.png)
-
-![](.github/assets/games.png)
-
-![](.github/assets/codes.png)
-
-
 ## Remove
 
 This guide will help you removing oxil from your system
